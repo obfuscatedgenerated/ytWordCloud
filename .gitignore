@@ -1,0 +1,6 @@
+.dccache
+/.vscode/
+/env/
+tokens.json
+/__pycache__/
+/output/
