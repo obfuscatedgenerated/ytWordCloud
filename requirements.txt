@@ -1,3 +1,4 @@
 python-youtube>=0.8.1
 wordcloud>=1.8.1
 matplotlib>=3.5.1
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
