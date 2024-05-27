@@ -1,3 +1,5 @@
 python-youtube>=0.8.1
 wordcloud>=1.8.1
 matplotlib>=3.5.1
+numpy>=1.21.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=9.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
